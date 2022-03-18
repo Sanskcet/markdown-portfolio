@@ -1,4 +1,3 @@
-[ ] Music
-[ ] Eating
-[ ] Reading
-[ ] Sleeping
+- Music
+- Reading
+- Sleeping
