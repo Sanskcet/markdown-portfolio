@@ -1,3 +1,3 @@
 - Music
-- Reading
-- Sleeping
+- __Reading__
+- _Sleeping_
